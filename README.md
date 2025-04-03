@@ -1,6 +1,6 @@
 # calculatrice
 
-A new Flutter project.
+Calculatrice is a new Flutter project that provides a simple calculator app. It lets you perform basic math operations like addition, subtraction, multiplication, and division.
 
 ## Getting Started
 
